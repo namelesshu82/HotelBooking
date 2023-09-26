@@ -1,2 +1,3 @@
 # HotelBooking
-Complete Booking application
+WIP hotel booking application.
+
